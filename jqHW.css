@@ -1,0 +1,29 @@
+/*样式初始化*/
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+body{
+	min-width: 1200px;
+	min-height: 600px;
+}
+#que {
+	margin-top: 100px;
+	margin-left: 20px;
+}
+#ans{
+	margin-left: 20px;
+}
+#test{
+	margin-top: 100px;
+	margin-left: 20px;
+}
+#test button{
+	width: 100px;
+	height: 100px;	
+	margin-left: 60px;
+	cursor: pointer;
+}
